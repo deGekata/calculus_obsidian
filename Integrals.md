@@ -1,0 +1,1 @@
+![](surface_integral1.jpg)![](surface_intergral2.jpg)![](gauss_ostro.jpg)![](stoks_theorem.jpg)

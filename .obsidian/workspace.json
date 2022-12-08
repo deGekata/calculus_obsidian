@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "c281e7f600ca5bd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a012541b8ad2ede",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b4549f05d14170a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Integrals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a00a46876c5b380d",
+    "type": "split",
+    "children": [
+      {
+        "id": "253ce282f5874576",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "168ec24a47e47c21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a7a8933ec18930b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdf65fedc337e442",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "858127325b502cc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c5db21263e7dc58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0e28a3392ad874d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Integrals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92062e5a7b88964e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Integrals.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfa6d3213fe63b2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5556cd392df557d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Integrals.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3b4549f05d14170a",
+  "lastOpenFiles": [
+    "stoks_theorem.jpg",
+    "surface_integral1.jpg",
+    "Integrals.md",
+    "gring_integral_formula.jpg",
+    "gauss_ostro.jpg"
+  ]
+}
